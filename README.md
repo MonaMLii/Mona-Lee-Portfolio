@@ -26,6 +26,10 @@ THEN it's take you to that deployed application
 WHEN resize the page or view the site on various screens and devices
 THEN it's presented with a responsive layout that adapts to my viewport
 
+## Live Website
+
+https://monamlii.github.io/Mona-Lee-Portfolio/ 
+
 
 <img width="883" alt="Screenshot 2023-01-09 at 6 10 40 PM" src="https://user-images.githubusercontent.com/89316044/211446165-5391f73e-3e19-4c4e-ba3d-867aa8cff1a3.png">
 <img width="881" alt="Screenshot 2023-01-09 at 6 11 00 PM" src="https://user-images.githubusercontent.com/89316044/211446187-fa66ac75-e037-47e2-adaf-8be7b0bb408b.png">
