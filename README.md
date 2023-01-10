@@ -30,6 +30,9 @@ THEN it's presented with a responsive layout that adapts to my viewport
 
 https://monamlii.github.io/Mona-Lee-Portfolio/ 
 
+![My Portfolio](https://user-images.githubusercontent.com/89316044/211449685-ac40c2d0-0343-464e-a340-9f4fe2530319.gif)
+
+
 
 <img width="883" alt="Screenshot 2023-01-09 at 6 10 40 PM" src="https://user-images.githubusercontent.com/89316044/211446165-5391f73e-3e19-4c4e-ba3d-867aa8cff1a3.png">
 <img width="881" alt="Screenshot 2023-01-09 at 6 11 00 PM" src="https://user-images.githubusercontent.com/89316044/211446187-fa66ac75-e037-47e2-adaf-8be7b0bb408b.png">
