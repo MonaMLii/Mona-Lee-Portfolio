@@ -14,7 +14,7 @@ I want to build portfolio from scratch to showcase my work and let employer sees
 
 GIVEN I need to show employer sample of my previous work
 WHEN load the portfolio
-THEN It's presented with the my's name, photo and links to sections about me, my work, and how to contact me
+THEN It's presented with the my name, photo and links to sections about me, my work, and how to contact me
 WHEN click one of the links in the navigation
 THEN the UI scrolls to the corresponding section
 WHEN click on the link to the section about their work
