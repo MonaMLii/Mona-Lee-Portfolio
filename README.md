@@ -6,7 +6,7 @@
 
 ## As A Boot Camp Student
 
-I want to build portfolio from scratch to showcase my work and let employer sees that I'm a a good candidate for an open position.
+I want to build portfolio from scratch to showcase my work and let employer sees that I'm a good candidate for an open position.
 
 
 
