@@ -6,7 +6,7 @@
 
 ## As A Boot Camp Student
 
-I want to build portfolio from scratch to showcase my work and let employer sees that I'm a a good candidate for an open position.
+I want to build portfolio from scratch to showcase my work and let employer sees that I'm a good candidate for an open position.
 
 
 
@@ -14,7 +14,7 @@ I want to build portfolio from scratch to showcase my work and let employer sees
 
 GIVEN I need to show employer sample of my previous work
 WHEN load the portfolio
-THEN It's presented with the my's name, photo and links to sections about me, my work, and how to contact me
+THEN It's presented with the my name, photo and links to sections about me, my work, and how to contact me
 WHEN click one of the links in the navigation
 THEN the UI scrolls to the corresponding section
 WHEN click on the link to the section about their work
@@ -25,6 +25,13 @@ WHEN click on the images of the applications
 THEN it's take you to that deployed application
 WHEN resize the page or view the site on various screens and devices
 THEN it's presented with a responsive layout that adapts to my viewport
+
+## Live Website
+
+https://monamlii.github.io/Mona-Lee-Portfolio/ 
+
+![My Portfolio](https://user-images.githubusercontent.com/89316044/211449685-ac40c2d0-0343-464e-a340-9f4fe2530319.gif)
+
 
 
 <img width="883" alt="Screenshot 2023-01-09 at 6 10 40 PM" src="https://user-images.githubusercontent.com/89316044/211446165-5391f73e-3e19-4c4e-ba3d-867aa8cff1a3.png">
